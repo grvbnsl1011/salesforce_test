@@ -1,5 +1,5 @@
-public with sharing class vscodedemo {
-    public vscodedemo() {
+public with sharing class vscodedemo_test {
+    public vscodedemo_test() {
 
     }
 }
